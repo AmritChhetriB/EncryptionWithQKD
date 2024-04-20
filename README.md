@@ -24,7 +24,7 @@ To get started with this project, you need to have installtion of Python, Qiskit
 ### Installation
 Clone the repository and navigate to the project directory. 
 ```bash
-git clone <repo>
+git clone https://github.com/AmritChhetriB/EncryptionWithQKD.git
 ```
 
 Install the required dependencies using the following command:
