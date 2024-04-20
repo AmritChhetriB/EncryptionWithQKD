@@ -10,9 +10,9 @@ quantum mechanics.
 
 
 ## Features
-	- **Simulated QKD Environment**		: Simulation of QKD(quantum key distribution) process.
-	- **Secure Message Transmission**	: After the successful distribution of a secure key, the implementation optionally supports sending encrypted messages using the established key.
-	- **Jupyer Notebook Format**		: Easy to configure and run IDE environement for beginnerr as well as expert
+	### **Simulated QKD Environment**		: Simulation of QKD(quantum key distribution) process.
+	### **Secure Message Transmission**		: After the successful distribution of a secure key, the implementation optionally supports sending encrypted messages using the established key.
+	### **Jupyer Notebook Format**		: Easy to configure and run IDE environement for beginnerr as well as expert
 ## Getting Started
 To get started with this project, you need to have installtion of Python, Qiskit and Jupyter Labs or Jupyter Notebook
 
